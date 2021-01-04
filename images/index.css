@@ -1,0 +1,22 @@
+﻿body { background-color: #f5d9cf;
+}
+#list {
+ list-style-position: inside;
+ text-align:right;
+}
+footer{ background-color: red;
+        
+        padding:30px;
+}
+
+*{
+  box-sizing:border-box;
+}
+.clm{
+ float:left;
+ width:50%;
+ padding:5px;
+}
+.clm img{
+height:150px;
+}
